@@ -1,7 +1,7 @@
 // Методы класса в этом файл нужны для самостоятельной работы
 
 package exercise;
-
+/*
 import java.util.Map;
 import java.util.HashMap;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -53,3 +53,4 @@ class Utils {
         }
     }
 }
+*/

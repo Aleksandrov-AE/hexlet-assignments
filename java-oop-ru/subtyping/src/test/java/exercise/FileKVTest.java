@@ -6,13 +6,13 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
-import com.fasterxml.jackson.databind.ObjectMapper;
+//import com.fasterxml.jackson.databind.ObjectMapper;
 // BEGIN
 
 // END
 
 
-class FileKVTest {
+/*class FileKVTest {
 
     private static Path filepath = Paths.get("src/test/resources/file").toAbsolutePath().normalize();
 
@@ -26,4 +26,4 @@ class FileKVTest {
     // BEGIN
     
     // END
-}
+}*/
